@@ -1,6 +1,13 @@
 # repeat-letters
 C code for an interview in 2015. I still think this is pretty readable as far as C goes!
 
+## Running the code
+```bash
+make all
+echo 'such test very pass' > test.txt
+./maxletters ./test.txt. # returns test
+```
+
 ## The prompt
 
 In some English words, there is a letter that appears more than once. Search through a sample
